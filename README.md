@@ -1,7 +1,7 @@
 # kodluyoruzilkrepo
 Bu repo [kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![https://choosealicense.com/licenses/mit/](GITODEV.jpg)
+![GITODEV.jpg](https://github.com/Sinan-Sungulu/kodluyoruzilkrepo.git)
 
 ## Installation
 ----
@@ -10,7 +10,7 @@ Bu repo [kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 git clone https://github.com/Sinan-Sungulu/kodluyoruzilkrepo.git
 ```
 ## Usage
-------
+---
 projeyi clonladıktan sonra Visual Studio Code prgromında açınız.
 Linux için ;
 ``
@@ -19,7 +19,7 @@ code .
 ``
 
 # Contributing
-------
+---
 Pull requseter kabul edilir. Büyük Değişikler için, lütfen önce neti değiştirmek istediğnizi tartışmak için konu açınız 
 
 ## License
