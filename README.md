@@ -1,7 +1,7 @@
 # kodluyoruzilkrepo
 Bu repo [kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![GITODEV.jpg](https://github.com/Sinan-Sungulu/kodluyoruzilkrepo.git)
+![ilgili imaj](GITODEV.jpg)
 
 ## Installation
 ----
